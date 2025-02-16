@@ -1,12 +1,15 @@
-<h1 align="center">🎥 Welcome to ITCCTV Shop Design! 📷</h1>
-<h3 align="center">🔹 Innovating Security Solutions 🔹</h3>
+<h1 align="center">🎥 Welcome to ITCCTVSoft! 🔧</h1>
+<h3 align="center">🔹 Developing and Managing Web Projects 🔹</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </p>
 
-## 🚀 About ITCCTV Shop Design
+## 🚀 About ITCCTVSoft
 
-ITCCTV Shop is a platform specializing in **security solutions** and **camera surveillance systems**, bringing innovative **monitoring and protection** technology to businesses and homes.
+**ITCCTVSoft** là nơi lưu trữ và phát triển các dự án **website** của ITCCTV.  
+Chúng tôi quản lý mã nguồn, triển khai và tối ưu các hệ thống web phục vụ các ứng dụng khác nhau.  
+
+👉 **Ghé thăm & tìm hiểu thêm tại:** [ITCCTV.vn](https://itcctv.vn/)  
 
 ---
 
@@ -22,10 +25,9 @@ ITCCTV Shop is a platform specializing in **security solutions** and **camera su
 
 ## 🛠 What We Do:
 
-- 📡 **Develop & Optimize** security software and surveillance solutions
-- 🔒 **Enhance Security Measures** for businesses and residential areas
-- 💻 **Implement AI & IoT** for intelligent monitoring
-- 🚀 **Provide Cutting-Edge Technology** for IT security solutions
+- ⚙️ **Phát triển & tối ưu** hệ thống website  
+- 💻 **Xây dựng nền tảng web** cho các ứng dụng và dịch vụ  
+- 🚀 **Quản lý mã nguồn & triển khai** dự án phần mềm  
 
 ---
 
@@ -60,4 +62,4 @@ ITCCTV Shop is a platform specializing in **security solutions** and **camera su
 
 ---
 
-🌟 **Follow us to stay updated on the latest security technology and innovations!**
+🚀 **Theo dõi để cập nhật những công nghệ và dự án web mới nhất!**  
