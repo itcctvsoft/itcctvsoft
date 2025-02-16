@@ -6,10 +6,10 @@
 
 ## 🚀 About ITCCTVSoft
 
-**ITCCTVSoft** là nơi lưu trữ và phát triển các dự án **website** của ITCCTV.  
-Chúng tôi quản lý mã nguồn, triển khai và tối ưu các hệ thống web phục vụ các ứng dụng khác nhau.  
+**ITCCTVSoft** is a platform for storing and developing **website** projects by ITCCTV.  
+We manage source code, deploy, and optimize web systems for various applications.  
 
-👉 **Ghé thăm & tìm hiểu thêm tại:** [ITCCTV.vn](https://itcctv.vn/)  
+👉 **Visit & learn more at:** [ITCCTV.vn](https://itcctv.vn/)  
 
 ---
 
@@ -23,9 +23,9 @@ Chúng tôi quản lý mã nguồn, triển khai và tối ưu các hệ thống
 
 ## 🛠 What We Do:
 
-- ⚙️ **Phát triển & tối ưu** hệ thống website  
-- 💻 **Xây dựng nền tảng web** cho các ứng dụng và dịch vụ  
-- 🚀 **Quản lý mã nguồn & triển khai** dự án phần mềm  
+- ⚙️ **Develop & optimize** website systems  
+- 💻 **Build web platforms** for applications and services  
+- 🚀 **Manage source code & deploy** software projects  
 
 ---
 
@@ -60,4 +60,4 @@ Chúng tôi quản lý mã nguồn, triển khai và tối ưu các hệ thống
 
 ---
 
-🚀 **Theo dõi để cập nhật những công nghệ và dự án web mới nhất!**  
+🚀 **Follow us to stay updated on the latest web technologies and projects!**  
