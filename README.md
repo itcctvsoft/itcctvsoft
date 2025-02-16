@@ -16,9 +16,7 @@ Chúng tôi quản lý mã nguồn, triển khai và tối ưu các hệ thống
 ## 🌐 Connect With Us:
 
 <p align="left">
-  <a href="https://www.facebook.com/itcctvsoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ITCCTV Facebook" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/company/itcctvsoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="ITCCTV LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:support@itcctvsoft.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/21791/email.svg" alt="Email" height="30" width="40" /></a>
+  <a href="https://github.com/itcctvsoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ITCCTV Facebook" height="30" width="40" /></a>
 </p>
 
 ---
